@@ -51,7 +51,7 @@ https://github.com/harshitaslayss/expenses-frontend.git
 
 ## Live Application
 
-https://expenses-frontend-mptjzxhw9-harshitaslayss-projects.vercel.app/
+https://expenses-frontend-mauve.vercel.app/
 
 ## Environment Variables
 
